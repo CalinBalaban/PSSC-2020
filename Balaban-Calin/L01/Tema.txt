@@ -1,0 +1,10 @@
+1. Bara de cautare
+2. Meniu
+3. Buton de Home
+4. Buton de Log in
+5. Buton de Sign up
+6. Sectiune de intrebari si raspunsuri
+7. Tag-uri
+8. Lista utilizatorilor
+9. Sectiune pentru job-uri
+10. Sectiune pentru companii
